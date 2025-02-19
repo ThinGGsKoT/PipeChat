@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Chat", "Chat.shproj", "{510FCAEA-DC29-4724-AC47-054FE3157D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeServer", "..\PipeServer\PipeServer.csproj", "{A1E6C40C-BD4A-425D-BD27-6ABFABE64FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeClient", "..\PipeClient\PipeClient.csproj", "{CEAFA451-7645-4480-AF77-9FE39069470A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E6C40C-BD4A-425D-BD27-6ABFABE64FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E6C40C-BD4A-425D-BD27-6ABFABE64FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E6C40C-BD4A-425D-BD27-6ABFABE64FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E6C40C-BD4A-425D-BD27-6ABFABE64FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAFA451-7645-4480-AF77-9FE39069470A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAFA451-7645-4480-AF77-9FE39069470A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAFA451-7645-4480-AF77-9FE39069470A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAFA451-7645-4480-AF77-9FE39069470A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Chat.projitems*{510fcaea-dc29-4724-ac47-054fe3157d2e}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
