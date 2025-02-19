@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4cLcilvk0w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinGGsKoT\\source\\repos\\PipeClient\\PipeClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinGGsKoT\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
